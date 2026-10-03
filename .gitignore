@@ -1,0 +1,10 @@
+node_modules/
+dist/
+dist-electron/
+renderer-dist/
+release/
+.DS_Store
+*.log
+backend/node_modules/
+backend/.env
+backend/data/
